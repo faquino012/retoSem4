@@ -1,0 +1,30 @@
+[
+    {
+        "id": "<function uuid4 at 0x00000245A7EA2160>",
+        "nombre": "Miguel",
+        "notas": [
+            12.0,
+            15.0,
+            13.0,
+            15.0
+        ],
+        "nota Mayor": 15.0,
+        "nota Menor": 12.0,
+        "nota Promedio": 13.75
+    },
+    {
+        "id": "<function uuid4 at 0x00000245A7EA2160>",
+        "nombre": "Antonio",
+        "notas": [
+            15.0,
+            15.0,
+            2.0,
+            16.0,
+            18.0,
+            15.0
+        ],
+        "nota Mayor": 18.0,
+        "nota Menor": 2.0,
+        "nota Promedio": 13.5
+    }
+]

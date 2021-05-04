@@ -1,0 +1,14 @@
+[
+    {
+        "id": "<function uuid4 at 0x000002807DA610D0>",
+        "nombre": "Francisco",
+        "edad": "45",
+        "dni": "44697658"
+    },
+    {
+        "id": "<function uuid4 at 0x000002807DA610D0>",
+        "nombre": "Eduardo",
+        "edad": "45",
+        "dni": "44697658"
+    }
+]
